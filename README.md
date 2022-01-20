@@ -30,4 +30,7 @@ Thomas High School is a charter school.  The scores for Charter schools improved
 
 ## Summary
 
+After discovering that ninth grade scores for Thomas High School could not be trusted, the data needed to be adjusted.  
+That adjustment cascaded its impact to a number of analysis we have done. 
 
+Across the board, Thomas High School's rank and performance improved.  
